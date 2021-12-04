@@ -1,0 +1,28 @@
+#header-nav {
+    background-color: grey;
+    border-bottom: 3px solid black;
+    padding-left: 30px;
+}
+
+#menu {
+    font-size: 3em;
+    text-align: center;
+    margin: 15px;
+}
+
+.content {
+    background-color: grey;
+    padding: 15px;
+    margin: 20px;
+    font-size: large;
+    color: black;
+}
+
+.title {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.navbar-nav > a {
+    text-align: center;
+}
